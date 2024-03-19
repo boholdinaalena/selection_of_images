@@ -51,7 +51,7 @@ const reloadCard = (i) => {
 <style lang="scss" scoped>
 .reload {
   width: 100%;
-  padding: 20%;
+  padding: 35%;
   display: block;
   justify-content: right;
   background-color: rgba(255, 255, 255, 0.413);
